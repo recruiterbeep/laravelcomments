@@ -21,3 +21,6 @@ The idea is to create commenting system just like facebook. No need of authentic
 11. Comment shown on the screen must have following fileds (1.owner, 2. comment, 3. date time human readable e.g. 2 days ago or 1 minute ago etc, 4. highlight tagged user if there is any the comment.) 
 12. Apply cache if required.
 13. You can use any front end framework like bootstrap/tailwind of your choice.
+
+
+![image (9)](https://user-images.githubusercontent.com/102017364/159495264-68501d6c-5cc0-466e-af65-d235cf232982.png)
